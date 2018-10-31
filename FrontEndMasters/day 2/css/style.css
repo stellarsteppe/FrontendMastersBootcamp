@@ -1,0 +1,46 @@
+/* Creator: steppe
+Date Created:10.30.2018
+Date Last Modified: 10.30.2018
+*/
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(http://placekitten.com/200/300);
+    color: turquoise;
+}
+
+img {
+    border: 10px solid greenyellow;
+   background-repeat: repeat-x;
+}
+
+h1{
+    border: 5px dotted pink;
+}
+
+blockquote  {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 3rem;
+    font-style: italic;
+    text-align: center;
+}
+
+cite    {
+    font-size: 1.5rem;
+    font-weight: bold;
+   
+}
+
+.bigbold    {
+    font-weight: bold;
+    font-size: 1.5 rem;
+}
+
+ a.sites:hover    {
+    font-size: 3rem;
+    text-emphasis: emphasis;
+    text-decoration: none;
+    text-shadow: 2px black;
+    
+    
+ }
